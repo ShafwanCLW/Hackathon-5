@@ -1,4 +1,5 @@
 Computer Science Registeration System
+
 This program is used for Computer Science Student’s Registration System. There are
 a few tasks that this program can do. The user especially computer science student can
 choose the courses that they want to take. The program read the course list text file that
