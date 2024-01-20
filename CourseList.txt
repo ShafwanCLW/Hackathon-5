@@ -1,0 +1,20 @@
+Principles of Programming                	CPT111	3
+Discrete Structures                      	CPT112	4
+Programming Methodology & Data Structures	CPT113	3
+Mathematical Methods for Computer Science	CPT115	4
+Design & Analysis of Algorithms          	CPT212	4
+Fundamentals of Logic and Artificial Intelligence	CPC151	3
+Foundations and Programming for Data Analytics	CPC152	4
+Integrated Software Development Workshop	CAT201	4
+Database Organizations & Design	CMT221	3
+Operating Systems	CST232	3
+Philosophy and Current Issues	HFF225	2
+Appreciation of Ethics and Civilisations	HFE224	2
+Bahasa Malaysia IV	LKM400	2
+Bahasa Malaysia I	LKM100	2
+Preparatory English	LMT100	2
+Operations Management	AKP302	4
+Economic Transformation in Southeast Asia	SEA302	4
+Asas Pengajian Penterjemahan	HBT106	4
+Pengantar Pengajian Islam	HIA101	4
+Calculus for Science Students I	MAA101	4
